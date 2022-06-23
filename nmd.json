@@ -1,0 +1,47 @@
+"root":{11 items
+    "key":int4
+    "updateAuthority":string"3se1zf5wafupQWPXVuxtbZUYiM4xdR7J7dPNnQFdtizD"
+    "mint":string"7ahfGCmABG9NPfFZVNMtrsGwoSH6stBJQPPTXEJf53eP"
+    "data":{5 items
+    "name":string"Number #0003"
+    "symbol":string"NB"
+    "uri":string"/Users/mukulisrani/CMV2/metaplex/js/assets1/0.png"
+    "sellerFeeBasisPoints":int500
+    "creators":[4 items
+    0:{3 items
+    "address":string"AH47h9YLYpDP5gm21qydbgVLdpeDujKFyGG4j1n5d263"
+    "verified":int1
+    "share":int0
+    }
+    1:{3 items
+    "address":string"6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ"
+    "verified":int0
+    "share":int100
+    }
+    2:{3 items
+    "address":string"3se1zf5wafupQWPXVuxtbZUYiM4xdR7J7dPNnQFdtizD"
+    "verified":int0
+    "share":int0
+    }
+    3:{3 items
+    "address":string"HEHEcd4tK8RB2KkPpjupJ458FXUoTcLrN16joJJAVuCZ"
+    "verified":int0
+    "share":int0
+    }
+    ]
+    }
+    "primarySaleHappened":int1
+    "isMutable":int1
+    "editionNonce":int255
+    "tokenStandard":int0
+    "collection":{2 items
+    "verified":int1
+    "key":string"B6RKowQ5viaGgPK5KKjQzWdf8E8ErU3rtBmCidgsQzbz"
+    }
+    "type":string"metaplex"
+    "edition":{3 items
+    "type":string"MasterEdition"
+    "maxSupply":string"0"
+    "supply":string"0"
+    }
+    }
